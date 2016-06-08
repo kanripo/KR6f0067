@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:19.525607
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 兩卷無量壽經宗要
 #+PROPERTY: CBETA_ID T37n1747
 #+PROPERTY: ID KR6f0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1747
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0067_T_000-0125b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0067_T_001-0125b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1747[cf.No.360]¶
-
- 兩卷無量壽經宗要¶
+No. 1747 [cf. No. 360]¶
+兩卷無量壽經宗要¶
 ¶
 釋元曉選¶
 
